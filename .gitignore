@@ -3,6 +3,9 @@
 # C extensions
 *.so
 
+local_data
+corpuses
+
 # Packages
 *.egg
 *.egg-info
